@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2025-09-12 19:17:13",
+    "user": "SYSTEM",
+    "role": "Server",
+    "action": "System started in DEVELOPMENT on 127.0.0.1:5000"
+  },
+  {
+    "time": "2025-09-12 19:18:53",
+    "user": "Isabella",
+    "role": "student",
+    "action": "Student logged in (adm:9990)"
+  },
+  {
+    "time": "2025-09-12 20:37:58",
+    "user": "SYSTEM",
+    "role": "Server",
+    "action": "System stopped gracefully"
+  }
+]
