@@ -4,5 +4,17 @@
     "user": "SYSTEM",
     "role": "Server",
     "action": "System started in DEVELOPMENT on 127.0.0.1:5000"
+  },
+  {
+    "time": "2025-09-24 21:28:55",
+    "user": "SYSTEM",
+    "role": "Server",
+    "action": "System stopped gracefully"
+  },
+  {
+    "time": "2025-09-24 21:28:55",
+    "user": "SYSTEM",
+    "role": "Server",
+    "action": "System exiting via atexit"
   }
 ]
